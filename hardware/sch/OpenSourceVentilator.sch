@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 1 4
 Title "OpenSourceVentilator Controller"
 Date "Mar. 28 2020"
-Rev "2b"
+Rev "3"
 Comp "https://github.com/ermtl/Open-Source-Ventilator"
 Comment1 "Drafting: Robbie Sharma"
 Comment2 "Designer: Eric Vinter"
